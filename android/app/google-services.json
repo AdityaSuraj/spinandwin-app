@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85099770559",
+    "firebase_url": "https://free-diamond-de5fe.firebaseio.com",
+    "project_id": "free-diamond-de5fe",
+    "storage_bucket": "free-diamond-de5fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85099770559:android:f8c4823cd4ce965b5b0c0a",
+        "android_client_info": {
+          "package_name": "com.spin.spinandwin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85099770559-hirj2ld62u3tvspr8a12513oiml256nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYwbM5yx4YF56-qgONgjsyGmsO18IvsCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85099770559-hirj2ld62u3tvspr8a12513oiml256nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
